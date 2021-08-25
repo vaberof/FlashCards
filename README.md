@@ -1,0 +1,2 @@
+# FlashCards
+JetBrains project
